@@ -1,0 +1,10 @@
+E:\Program design\NB program Tung Sample\GenerateRandomNumber\GenerateRandomNumber\WinFormRandom\bin\Debug\WinFormRandom.exe.config
+E:\Program design\NB program Tung Sample\GenerateRandomNumber\GenerateRandomNumber\WinFormRandom\bin\Debug\WinFormRandom.exe
+E:\Program design\NB program Tung Sample\GenerateRandomNumber\GenerateRandomNumber\WinFormRandom\bin\Debug\WinFormRandom.pdb
+E:\Program design\NB program Tung Sample\GenerateRandomNumber\GenerateRandomNumber\WinFormRandom\obj\Debug\WinFormRandom.csprojAssemblyReference.cache
+E:\Program design\NB program Tung Sample\GenerateRandomNumber\GenerateRandomNumber\WinFormRandom\obj\Debug\WinFormRandom.Form1.resources
+E:\Program design\NB program Tung Sample\GenerateRandomNumber\GenerateRandomNumber\WinFormRandom\obj\Debug\WinFormRandom.Properties.Resources.resources
+E:\Program design\NB program Tung Sample\GenerateRandomNumber\GenerateRandomNumber\WinFormRandom\obj\Debug\WinFormRandom.csproj.GenerateResource.cache
+E:\Program design\NB program Tung Sample\GenerateRandomNumber\GenerateRandomNumber\WinFormRandom\obj\Debug\WinFormRandom.csproj.CoreCompileInputs.cache
+E:\Program design\NB program Tung Sample\GenerateRandomNumber\GenerateRandomNumber\WinFormRandom\obj\Debug\WinFormRandom.exe
+E:\Program design\NB program Tung Sample\GenerateRandomNumber\GenerateRandomNumber\WinFormRandom\obj\Debug\WinFormRandom.pdb
